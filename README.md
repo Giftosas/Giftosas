@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Giftosas
-- 👀 I’m interested in Beginner Developer.
+- 👀 I’m interested in SOFTWARE ENGINEERING .
 - 🌱 I’m currently learning SOFTWARE ENGINEERING (ALX TRAINEE)
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me via +2348189770302
